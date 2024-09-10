@@ -1,4 +1,4 @@
-# 💰💰 Money Laundering Detection
+# 💰💰 Money Laundering Detection (Amir Ali 317554)
 
 ![alt text](https://www.unodc.org/images/money-laundering/images_website_update/Money_Laundering_Cycle.png)
 
@@ -72,7 +72,6 @@ Python programming language and frameworks such as NumPy, Pandas, Scikit-learn a
 
 ## 👨🏻‍💻 Web App
 
-![alt text](https://github.com/mvram123/mvram123/blob/main/ML/web.png)
 
 Our Web App Link: https://money-laundering-detection.herokuapp.com
 
@@ -82,7 +81,7 @@ In the result box, you can see the google drive folder link and output filename.
 
 ## Contributors
 
-1. [M V Rama Rao](https://www.linkedin.com/in/ramarao-mv)
+Amir and Eric
 
 
 
